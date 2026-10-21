@@ -1,0 +1,9 @@
+Event Feedback
+
+This was a good experience as a learning curve. I learned how Git, Github make collaboration easier while working on a shared project with multiple developers.
+
+I learned how to go about forking a repository, cloning it to my local machine, creating a branch, running a status command on the repository, and staging the files for a commit and Pull Request.
+
+A couple of takeaways for me: Learning why we commit to separate branches and get changes peer-reviewed is very helpful. In addition I felt more comfortable doing simple Git tasks in the terminal now that I've done it.
+
+Overall, this challenge has given me a chance to gain some experience with an open-source contribution workflow and I will be able to apply this in future!
